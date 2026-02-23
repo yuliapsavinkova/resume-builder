@@ -1,0 +1,65 @@
+profile:
+  name: YULIA SAVINKOVA
+  title: Senior Frontend Engineer | React / Angular / TypeScript | Product & Platform UI
+  email: yuliasavinkova@gmail.com
+  location: San Francisco, CA
+  linkedin: https://linkedin.com/in/juliia/
+  github: https://github.com/yuliapsavinkova
+  summary: >
+    10+ years building high-performance web applications. Experience ranges from the early-stage startup world at MuleSoft (acquired by Salesforce), building products from the ground up, to the large-scale corporate environment of Bloomberg, working within established systems and processes. Strong focus on reusable UI systems, real-time interfaces, and maintainable frontend solutions.
+
+
+experience:
+  - company: Independent Software Engineer
+    bullets:
+      - Built trading tools and dashboards for real-time market analysis and portfolio management.
+      - Developed and launched custom web applications using React, TypeScript, and Next.js.
+      - Created rapid prototypes and MVPs using AI to explore new product ideas and workflows.
+      - Defined interface requirements and screen workflows for custom machine control systems.
+
+  - company: Bloomberg
+    title: Senior Software Engineer
+    location: New York, NY
+    dates: 2016–2020
+    bullets:
+      - Built the financial tools used by research analysts to stream and manage live Bloomberg financial data within Excel and Word.
+      - Designed user interfaces for internal research platforms, turning complex backend APIs into clear, task-oriented dashboards.
+      - Optimized UI performance to ensure the platform stayed responsive while handling high-frequency, real-time data updates.
+      - Interviewed and evaluated university candidates for engineering roles.
+
+  - company: Yahoo (Flurry Analytics)
+    title: Senior UI Developer
+    location: San Francisco, CA
+    dates: 2015–2016
+    bullets:
+      - Rebuilt the Flurry Analytics web UI in Angular, introducing a modular, reusable component architecture.
+      - Built interactive data visualization tools that enabled mobile developers to analyze millions of app events in real-time.
+
+  - company: MuleSoft (Acquired by Salesforce)
+    title: Senior Frontend Engineer
+    location: San Francisco, CA
+    dates: 2012–2015
+    bullets:
+      - Joined as the first frontend engineer in the San Francisco office, owned the CloudHub UI, and helped build the engineering team.
+      - Developed the reusable UI components and architecture used to create the unified Anypoint Platform.
+      - Established coding standards, project structures, and build tools used by the frontend team as the company scaled.
+      - Built real-time dashboards and control panels used by enterprise customers to manage cloud infrastructure.
+      - Interviewed and mentored new engineering hires to help scale the San Francisco UI team.
+
+skills:
+  - HTML5
+  - CSS3
+  - JavaScript / TypeScript
+  - React / Next.js
+  - Angular
+  - Web Components
+  - Node / Express
+  - SQL
+  - Vite / Webpack
+  - Git
+
+education:
+  - degree: M.S., Computer Science
+    school: Suffolk University
+    location: Boston, MA
+    date: May 2011
