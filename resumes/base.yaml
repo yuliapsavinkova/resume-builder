@@ -22,7 +22,7 @@ experience:
   - company: Bloomberg
     title: Senior Software Engineer
     location: New York, NY
-    dates: 2016–2020
+    dates: 2016 – 2020
     bullets:
       - Built the financial tools used by research analysts to stream and manage live Bloomberg financial data within Excel and Word.
       - Designed user interfaces for internal research platforms, turning complex backend APIs into clear, task-oriented dashboards.
@@ -32,7 +32,7 @@ experience:
   - company: Yahoo (Flurry Analytics)
     title: Senior UI Developer
     location: San Francisco, CA
-    dates: 2015–2016
+    dates: 2015 – 2016
     bullets:
       - Rebuilt the Flurry Analytics web UI in Angular, introducing a modular, reusable component architecture.
       - Built interactive data visualization tools that enabled mobile developers to analyze millions of app events in real-time.
@@ -40,7 +40,7 @@ experience:
   - company: MuleSoft (Acquired by Salesforce)
     title: Senior Frontend Engineer
     location: San Francisco, CA
-    dates: 2012–2015
+    dates: 2012 – 2015
     bullets:
       - Joined as the first frontend engineer in the San Francisco office, owned the CloudHub UI, and helped build the engineering team.
       - Developed the reusable UI components and architecture used to create the unified Anypoint Platform.
@@ -64,4 +64,3 @@ education:
   - degree: M.S., Computer Science
     school: Suffolk University
     location: Boston, MA
-    date: May 2011
