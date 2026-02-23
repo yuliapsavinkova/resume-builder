@@ -1,23 +1,17 @@
 {
   "name": "resume",
   "version": "1.0.0",
-  "description": "Resume builder, generates a .docx from YAML.",
-  "type": "module",
   "scripts": {
-    "build": "tsx src/index.ts"
-  },
-  "notes": {
-    "usage": "pnpm build [variant]"
+    "build": "tsx src/docx.ts && tsx src/pdf.ts"
   },
   "dependencies": {
     "docx": "^9.5.3",
+    "pdfkit": "^0.15.2",
     "yaml": "^2.8.2"
   },
   "devDependencies": {
-    "tsx": "^4.19.2",
+    "@types/pdfkit": "^0.13.9",
+    "tsx": "^4.21.0",
     "typescript": "^5.7.3"
-  },
-  "engines": {
-    "node": ">=18"
   }
 }

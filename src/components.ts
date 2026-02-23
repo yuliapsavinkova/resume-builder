@@ -70,14 +70,30 @@ export function jobHeader(
   location?: string,
   dates?: string,
 ): Paragraph {
+  const parenIdx = company.indexOf(' (');
+  const companyMain = parenIdx !== -1 ? company.slice(0, parenIdx) : company;
+  const companyQualifier = parenIdx !== -1 ? company.slice(parenIdx) : '';
+
   const children: TextRun[] = [
-    new TextRun({ text: company, bold: true, size: sizes.job, color: colors.navy, font }),
+    new TextRun({ text: companyMain, bold: true, size: sizes.job, color: colors.navy, font }),
   ];
+
+  if (companyQualifier) {
+    children.push(
+      new TextRun({
+        text: companyQualifier,
+        bold: false,
+        size: sizes.job,
+        color: colors.dark,
+        font,
+      }),
+    );
+  }
 
   if (title) {
     children.push(
       new TextRun({ text: ' - ', size: sizes.job, color: colors.dark, font }),
-      new TextRun({ text: title, bold: true, size: sizes.job, color: colors.navy, font }),
+      new TextRun({ text: title, bold: false, size: sizes.job, color: colors.dark, font }),
     );
   }
 

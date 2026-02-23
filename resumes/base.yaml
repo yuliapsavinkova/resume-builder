@@ -10,12 +10,14 @@ profile:
 
 
 experience:
-  - company: Independent Software Engineer
+  - company: Gravity (Independent Consultancy)
+    title: Founder & Senior Engineer
+    dates: 2021 – Present
     bullets:
       - Built trading tools and dashboards for real-time market analysis and portfolio management.
       - Developed and launched custom web applications using React, TypeScript, and Next.js.
       - Created rapid prototypes and MVPs using AI to explore new product ideas and workflows.
-      - Defined interface requirements and screen workflows for custom machine control systems.
+      - Designed and prototyped user interfaces for custom machine control systems.
 
   - company: Bloomberg
     title: Senior Software Engineer

@@ -64,7 +64,7 @@ const doc = new Document({
 
         divider(),
         sectionHeader('Education'),
-        ...education.map((e) => educationRow(`${e.degree}, ${e.school}, ${e.location}, ${e.date}`)),
+        ...education.map((e) => educationRow(`${e.degree}, ${e.school}, ${e.location}`)),
       ],
     },
   ],
