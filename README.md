@@ -1,6 +1,6 @@
 # resume
 
-My resume, built as code. Content lives in `src/data.ts`. Running the build generates a polished `.docx`.
+My resume, built as code. Content lives in `src/data.ts`. Running the build generates a `.docx` and `.pdf`.
 
 ## Why
 
@@ -11,6 +11,7 @@ My resume, built as code. Content lives in `src/data.ts`. Running the build gene
 ## Stack
 
 - [docx](https://docx.js.org) — programmatic Word document generation
+- [pdf](https://pdf.js.org) — programmatic PDF document generation
 - [tsx](https://github.com/privatenumber/tsx) — run TypeScript directly, no compilation step
 - TypeScript, pnpm
 
@@ -31,5 +32,5 @@ pnpm build
 
 ## CI
 
-Every push to `main` builds the `.docx` and uploads it as a GitHub Actions artifact.  
+Every push to `main` builds the `.docx` and `.pdf` and uploads it as a GitHub Actions artifact.  
 Download it from the **Actions** tab → latest run → **Artifacts**.
