@@ -12,7 +12,7 @@ profile:
 experience:
   - company: Gravity (Independent)
     title: Founder & Engineer
-    dates: 2021 – Present
+    dates: 2020 – Present
     bullets:
       - Built trading tools and dashboards for real-time market analysis and portfolio management.
       - Developed and launched custom web applications using React, TypeScript, and Next.js.
@@ -22,7 +22,7 @@ experience:
   - company: Bloomberg
     title: Senior Software Engineer
     location: New York, NY
-    dates: 2016 – 2020
+    dates: 2016 – 2019
     bullets:
       - Built the financial tools used by research analysts to stream and manage live Bloomberg financial data within Excel and Word.
       - Designed user interfaces for internal research platforms, turning complex backend APIs into clear, task-oriented dashboards.
