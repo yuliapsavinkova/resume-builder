@@ -20,13 +20,14 @@ My resume, built as code. Content lives in `src/data.ts`. Running the build gene
 pnpm install
 pnpm build
 # → Yulia_Savinkova_Resume.docx
+# → Yulia_Savinkova_Resume.pdf
 ```
 
 ## Editing
 
 **Content** (text, bullets, jobs) → `src/data.ts`  
 **Visual tuning** (colors, font sizes, spacing) → `src/styles.ts`  
-**Layout / structure** → `src/index.ts`  
+**Layout / structure** → `src/index.ts`
 
 ## CI
 

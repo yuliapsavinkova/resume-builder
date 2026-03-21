@@ -1,6 +1,6 @@
 profile:
   name: YULIA SAVINKOVA
-  title: Senior Frontend Engineer | React / Angular / TypeScript | Product & Platform UI
+  title: Software Engineer | React / Angular / TypeScript | Product & Platform UI
   email: yuliasavinkova@gmail.com
   location: San Francisco, CA
   linkedin: https://linkedin.com/in/juliia/
@@ -10,8 +10,8 @@ profile:
 
 
 experience:
-  - company: Gravity (Independent Consultancy)
-    title: Founder & Senior Engineer
+  - company: Gravity (Independent)
+    title: Founder & Engineer
     dates: 2021 – Present
     bullets:
       - Built trading tools and dashboards for real-time market analysis and portfolio management.
