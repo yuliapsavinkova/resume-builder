@@ -1,6 +1,6 @@
 profile:
   name: YULIA SAVINKOVA
-  title: Software Engineer | React / Angular / TypeScript | Product & Platform UI
+  title: Senior Software Engineer | React • TypeScript • Node.js • Next.js
   email: yuliasavinkova@gmail.com
   location: San Francisco, CA
   linkedin: https://linkedin.com/in/juliia/
@@ -10,14 +10,15 @@ profile:
 
 
 experience:
-  - company: Gravity (Independent)
-    title: Founder & Engineer
+  - company: Self-Employed
+    title: Senior Software Engineer
     dates: 2020 – Present
     bullets:
-      - Built trading tools and dashboards for real-time market analysis and portfolio management.
-      - Developed and launched custom web applications using React, TypeScript, and Next.js.
-      - Created rapid prototypes and MVPs using AI to explore new product ideas and workflows.
-      - Designed and prototyped user interfaces for custom machine control systems.
+      - Designed and built full-stack web applications from concept to deployment using React, TypeScript, Next.js, Node.js, and SQL.
+      - Developed real-time trading dashboards and visualization tools for market analysis and portfolio management.
+      - Architected reusable UI components and responsive interfaces with a strong focus on performance and maintainability.
+      - Built REST APIs and integrated third-party services, including authentication, payments, and AI services.
+      - Rapidly prototyped and launched MVPs, translating ideas into production-ready applications.
 
   - company: Bloomberg
     title: Senior Software Engineer
